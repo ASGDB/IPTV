@@ -25,8 +25,9 @@ source_urls = [
     "https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt",
     "https://xn--6ni-mf3g9f.v.nxog.top/m/tv/",
     "https://xn--6ni-mf3g9f.v.nxog.top/m/tv/1/",
-    "https://tv.iill.top/m3u/Gather"
-    "http://175.178.251.183:6689/live.m3u"
+    "https://tv.iill.top/m3u/Gather",
+    "http://175.178.251.183:6689/live.m3u",
+    "https://xn--4vv4-rp5imh.v.nxog.top/m/tv/"
 ]
 
 url_blacklist = [
