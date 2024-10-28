@@ -14,6 +14,8 @@ source_urls = [
     "https://tv.youdu.fan:666/live/",
     "http://ww.weidonglong.com/dsj.txt",
     "http://xhztv.top/zbc.txt",
+    "https://4708.kstore.space/zhibo/tv.txt",
+    "http://47.99.102.252/df.txt",
     "https://raw.githubusercontent.com/mlvjfchen/TV/main/iptv_list.txt",
     "https://raw.githubusercontent.com/qingwen07/awesome-iptv/main/tvbox_live_all.txt",
     "https://v.nxog.top/m/tv/1/",
