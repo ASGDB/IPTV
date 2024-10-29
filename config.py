@@ -33,6 +33,7 @@ source_urls = [
     "https://xn--6ni-mf3g9f.v.nxog.top/m/tv/1/",
     "https://tv.iill.top/m3u/Gather",
     "http://175.178.251.183:6689/live.m3u",
+    "https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u",
     "https://xn--4vv4-rp5imh.v.nxog.top/m/tv/"
 ]
 
