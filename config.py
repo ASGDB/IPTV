@@ -13,6 +13,7 @@ source_urls = [
     "https://raw.githubusercontent.com/Fairy8o/IPTV/main/PDX-V6.txt",
     "https://live.zhoujie218.top/tv/iptv6.txt",
     "https://4gtv.mytvsuper.xyz/myiptv.m3u",
+    "https://dingyue.mytvsuper.xyz/myiptv.m3u",
     "https://tv.youdu.fan:666/live/",
     "http://ww.weidonglong.com/dsj.txt",
     "http://xhztv.top/zbc.txt",
