@@ -1,7 +1,7 @@
 ip_version_priority = "ipv6"
 
 source_urls = [
-    "http://175.178.251.183:6689/channel.txt",
+    "http://175.178.251.183:6689/channel.txt,
     "http://175.178.251.183:6689/aktvlive.txt",
     "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
     "https://raw.githubusercontent.com/Moexin/IPTV/Files/IPTV.m3u",
@@ -19,6 +19,7 @@ source_urls = [
     "http://xhztv.top/zbc.txt",
     "https://4708.kstore.space/zhibo/tv.txt",
     "http://47.99.102.252/df.txt",
+    "http://mmitv.top/pltv/merization.php?id=list&user=t7rmgp&token=a273e900&text=m3u",
     "https://raw.githubusercontent.com/mlvjfchen/TV/main/iptv_list.txt",
     "https://raw.githubusercontent.com/qingwen07/awesome-iptv/main/tvbox_live_all.txt",
     "https://v.nxog.top/m/tv/1/",
@@ -38,6 +39,11 @@ source_urls = [
     "https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u",
     "https://s.netimed.cn/iptv",
     "https://xn--4vv4-rp5imh.v.nxog.top/m/tv/"
+    "https://live.zhoujie218.top/tv/iptv4.txt",
+    "https://www.mytvsuper.xyz/m3u/Live.m3u",
+    "https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt",
+    "https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt"
+
 ]
 
 url_blacklist = [
