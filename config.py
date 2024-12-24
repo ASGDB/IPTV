@@ -1,7 +1,7 @@
 ip_version_priority = "ipv6"
 
 source_urls = [
-    "http://175.178.251.183:6689/channel.txt,
+    "http://175.178.251.183:6689/channel.txt",
     "http://175.178.251.183:6689/aktvlive.txt",
     "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
     "https://raw.githubusercontent.com/Moexin/IPTV/Files/IPTV.m3u",
