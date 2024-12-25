@@ -8,15 +8,12 @@ source_urls = [
     "https://raw.githubusercontent.com/yuanzl77/IPTV/main/直播/央视频道.txt",
     "https://live.zbds.top/tv/iptv4.txt",
     "https://live.zbds.top/tv/iptv6.txt",
-    "https://raw.githubusercontent.com/Fairy8o/IPTV/main/PDX-V4.txt",
-    "https://raw.githubusercontent.com/Fairy8o/IPTV/main/PDX-V6.txt",
     "https://live.zhoujie218.top/tv/iptv6.txt",
     "https://tv.youdu.fan:666/live/",
     "http://ww.weidonglong.com/dsj.txt",
     "http://xhztv.top/zbc.txt",
     "http://47.99.102.252/df.txt",
     "http://mmitv.top/pltv/merization.php?id=list&user=t7rmgp&token=a273e900&text=m3u",
-    "https://raw.githubusercontent.com/mlvjfchen/TV/main/iptv_list.txt",
     "https://raw.githubusercontent.com/qingwen07/awesome-iptv/main/tvbox_live_all.txt",
     "https://ghproxy.net/raw.githubusercontent.com/Guovin/TV/gd/output/result.m3u",
     "http://home.jundie.top:81/Cat/tv/live.txt",
@@ -30,7 +27,6 @@ source_urls = [
     "http://175.178.251.183:6689/live.m3u",
     "https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u",
     "https://s.netimed.cn/iptv",
-    "https://xn--4vv4-rp5imh.v.nxog.top/m/tv/"
     "https://live.zhoujie218.top/tv/iptv4.txt",
     "https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt",
     "https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt"
