@@ -1,8 +1,6 @@
 ip_version_priority = "ipv6"
 
 source_urls = [
-    "http://175.178.251.183:6689/channel.txt",
-    "http://175.178.251.183:6689/aktvlive.txt",
     "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
     "https://raw.githubusercontent.com/Moexin/IPTV/Files/IPTV.m3u",
     "https://raw.githubusercontent.com/yuanzl77/IPTV/main/直播/央视频道.txt",
@@ -12,7 +10,6 @@ source_urls = [
     "https://tv.youdu.fan:666/live/",
     "http://ww.weidonglong.com/dsj.txt",
     "http://xhztv.top/zbc.txt",
-    "http://47.99.102.252/df.txt",
     "http://mmitv.top/pltv/merization.php?id=list&user=t7rmgp&token=a273e900&text=m3u",
     "https://raw.githubusercontent.com/qingwen07/awesome-iptv/main/tvbox_live_all.txt",
     "https://ghproxy.net/raw.githubusercontent.com/Guovin/TV/gd/output/result.m3u",
@@ -24,11 +21,11 @@ source_urls = [
     "https://fm1077.serv00.net/SmartTV.m3u",
     "https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
     "https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt",
-    "http://175.178.251.183:6689/live.m3u",
     "https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u",
     "https://s.netimed.cn/iptv",
     "https://live.zhoujie218.top/tv/iptv4.txt",
     "https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt",
+    "https://cdn.jsdelivr.net/gh/YueChan/live@main/IPTV.m3u",
     "https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt"
 
 ]
