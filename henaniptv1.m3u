@@ -31,8 +31,6 @@ http://192.168.100.1:8188/rtp/225.1.4.113:1293
 http://192.168.100.1:8188/rtp/225.1.4.80:1109
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15.png" group-title="央视频道",CCTV15
 http://192.168.100.1:8188/rtp/225.1.4.216:1269
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="央视频道",CCTV16
-http://192.168.100.1:8188/rtp/225.1.5.46:1356
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17.png" group-title="央视频道",CCTV17
 http://192.168.100.1:8188/rtp/225.1.4.226:2506
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4K.png" group-title="央视频道",CCTV4K
