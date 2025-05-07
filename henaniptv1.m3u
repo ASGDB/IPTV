@@ -239,7 +239,7 @@ http://192.168.100.1:8188/rtp/225.1.4.205:1253
 http://192.168.100.1:8188/rtp/225.1.5.19:1330
 #EXTINF:-1 tvg-name="爱综艺" tvg-logo="https://epg.v1.mk/logo/%E7%88%B1%E7%BB%BC%E8%89%BA.png" group-title="人文地理",爱综艺
 http://192.168.100.1:8188/rtp/225.1.4.204:1252
-#EXTINF:-1 tvg-name="军事" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/军事.png" group-title="人文地理",军事评论
+#EXTINF:-1 tvg-name="军事" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/军事.png" group-title="人文地理",军事
 http://192.168.100.1:8188/rtp/225.1.4.181:1230
 #EXTINF:-1 tvg-name="音乐现场" tvg-logo="https://epg.v1.mk/logo/%E9%9F%B3%E4%B9%90%E7%8E%B0%E5%9C%BA.png" group-title="体育音乐",音乐现场
 http://192.168.100.1:8188/rtp/225.1.4.184:1224
