@@ -149,7 +149,7 @@ http://192.168.100.1:8188/rtp/225.1.4.99:1128
 http://192.168.100.1:8188/rtp/225.1.4.101:1130
 #EXTINF:-1 tvg-name="河南移动电视" tvg-logo="https://epg.v1.mk/logo/%E6%B2%B3%E5%8D%97%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86.png" group-title="河南地方频道",河南移动电视
 http://192.168.100.1:8188/rtp/225.1.5.40:1350
-#EXTINF:-1 tvg-name="河南IPTV-导视" tvg-logo="https://epg.v1.mk/logo/%E6%B2%B3%E5%8D%97IPTV-%E5%AF%BC%E8%A7%86.png" group-title="河南地方频道",河南IPTV-导视
+#EXTINF:-1 tvg-name="导视" tvg-logo="https://epg.v1.mk/logo/%E6%B2%B3%E5%8D%97IPTV-%E5%AF%BC%E8%A7%86.png" group-title="河南地方频道",导视
 http://192.168.100.1:8188/rtp/225.1.4.194:1244
 #EXTINF:-1 tvg-name="南阳新闻综合" group-title="河南地方频道",南阳新闻综合
 http://192.168.100.1:8188/rtp/225.1.4.114:1143
@@ -175,13 +175,13 @@ http://192.168.100.1:8188/rtp/225.1.4.207:1260
 http://192.168.100.1:8188/rtp/225.1.4.209:1262
 #EXTINF:-1 tvg-name="新动漫" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/新动漫.png" group-title="影视剧场频道",新动漫
 http://192.168.100.1:8188/rtp/225.1.4.212:1265
-#EXTINF:-1 tvg-name="精选电视台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/精选.png" group-title="影视剧场频道",精选电视台
+#EXTINF:-1 tvg-name="精选" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/精选.png" group-title="影视剧场频道",精选
 http://192.168.100.1:8188/rtp/225.1.4.253:1299
 #EXTINF:-1 tvg-name="爱电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/AMC最爱电影.png" group-title="影视剧场频道",爱电影
 http://192.168.100.1:8188/rtp/225.1.4.6:1035
 #EXTINF:-1 tvg-name="爱大剧" tvg-logo="https://epg.v1.mk/logo/%E7%88%B1%E5%A4%A7%E5%89%A7.png" group-title="影视剧场频道",爱大剧
 http://192.168.100.1:8188/rtp/225.1.4.8:1037
-#EXTINF:-1 tvg-name="经典电影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/经典电影.png" group-title="影视剧场频道",经典电影台
+#EXTINF:-1 tvg-name="经典电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/经典电影.png" group-title="影视剧场频道",经典电影
 http://192.168.100.1:8188/rtp/225.1.4.175:1233
 #EXTINF:-1 tvg-name="热播剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/热播剧场.png" group-title="影视剧场频道",热播剧场
 http://192.168.100.1:8188/rtp/225.1.4.190:1239
@@ -193,7 +193,7 @@ http://192.168.100.1:8188/rtp/225.1.4.186:1235
 http://192.168.100.1:8188/rtp/225.1.4.162:1204
 #EXTINF:-1 tvg-name="高清大片" tvg-logo="https://epg.v1.mk/logo/%E7%88%B1%E4%BD%93%E8%82%B2%E9%AB%98%E6%B8%85.png" group-title="影视剧场频道",高清大片
 http://192.168.100.1:8188/rtp/225.1.4.168:1220
-#EXTINF:-1 tvg-name="央视高网" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/央视高网.png" group-title="影视剧场频道",央视高网
+#EXTINF:-1 tvg-name="高网" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/央视高网.png" group-title="影视剧场频道",高网
 http://192.168.100.1:8188/rtp/225.1.4.180:1229
 #EXTINF:-1 tvg-name="收视指南" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/收视指南.png" group-title="影视剧场频道",收视指南
 http://192.168.100.1:8188/rtp/225.1.4.50:1079
@@ -239,7 +239,7 @@ http://192.168.100.1:8188/rtp/225.1.4.205:1253
 http://192.168.100.1:8188/rtp/225.1.5.19:1330
 #EXTINF:-1 tvg-name="爱综艺" tvg-logo="https://epg.v1.mk/logo/%E7%88%B1%E7%BB%BC%E8%89%BA.png" group-title="人文地理",爱综艺
 http://192.168.100.1:8188/rtp/225.1.4.204:1252
-#EXTINF:-1 tvg-name="军事评论" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/军事.png" group-title="人文地理",军事评论
+#EXTINF:-1 tvg-name="军事" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/军事.png" group-title="人文地理",军事评论
 http://192.168.100.1:8188/rtp/225.1.4.181:1230
 #EXTINF:-1 tvg-name="音乐现场" tvg-logo="https://epg.v1.mk/logo/%E9%9F%B3%E4%B9%90%E7%8E%B0%E5%9C%BA.png" group-title="体育音乐",音乐现场
 http://192.168.100.1:8188/rtp/225.1.4.184:1224
