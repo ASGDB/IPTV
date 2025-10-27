@@ -105,8 +105,6 @@ http://192.168.110.1:5678/rtp/225.1.4.42:1071?fcc=10.254.216.130:8027
 http://192.168.110.1:5678/rtp/225.1.4.122:1302?fcc=10.254.216.130:8027
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河北卫视.png" group-title="卫视频道",河北卫视
 http://192.168.110.1:5678/rtp/225.1.4.123:1304?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河南卫视.png" group-title="卫视频道",河南卫视
-http://192.168.110.1:5678/rtp/225.1.4.98:1127?fcc=10.254.216.130:8027
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
 http://192.168.110.1:5678/rtp/225.1.4.91:1120?fcc=10.254.216.130:8027
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png" group-title="卫视频道",湖北卫视
