@@ -209,8 +209,6 @@ http://192.168.100.1:8188/rtp/225.1.4.185:1240
 http://192.168.100.1:8188/rtp/225.1.4.186:1235
 #EXTINF:-1 tvg-name="爱上-4k" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/爱上4K.png" group-title="影视剧场频道",爱上-4k
 http://192.168.100.1:8188/rtp/225.1.4.162:1204
-#EXTINF:-1 tvg-name="高清大片" tvg-logo="https://epg.v1.mk/logo/%E7%88%B1%E4%BD%93%E8%82%B2%E9%AB%98%E6%B8%85.png" group-title="影视剧场频道",高清大片
-http://192.168.100.1:8188/rtp/225.1.4.168:1220
 #EXTINF:-1 tvg-name="高网" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/央视高网.png" group-title="影视剧场频道",高网
 http://192.168.100.1:8188/rtp/225.1.4.180:1229
 #EXTINF:-1 tvg-name="收视指南" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/收视指南.png" group-title="影视剧场频道",收视指南
