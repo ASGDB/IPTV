@@ -139,7 +139,7 @@ http://192.168.110.1:5678/rtp/225.1.4.152:1307?fcc=10.254.216.130:8027
 http://192.168.110.1:5678/rtp/225.1.4.46:1075?fcc=10.254.216.130:8027
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/兵团卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225683/10000100000000060000000000009832_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",兵团卫视
 http://192.168.110.1:5678/rtp/225.1.4.97:1126?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/三沙卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",三沙卫视
+#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/三沙卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221226464/10000100000000060000000002828394_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",三沙卫视
 http://192.168.110.1:5678/rtp/225.1.4.234:1280?fcc=10.254.216.130:8027
 #EXTINF:-1 tvg-name="河南卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河南卫视.png" group-title="河南地方频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221226484/10000100000000060000000002806582_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",河南卫视4K
 http://192.168.110.1:5678/rtp/225.1.4.254:1300?fcc=10.254.216.130:8027
@@ -219,8 +219,8 @@ http://192.168.110.1:5678/rtp/225.1.4.48:1077?fcc=10.254.216.130:8027
 http://192.168.110.1:5678/rtp/225.1.4.49:1078?fcc=10.254.216.130:8027
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/嘉佳卡通.png" group-title="教育卡通" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225669/10000100000000060000000000009825_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",嘉佳卡通
 http://192.168.110.1:5678/rtp/225.1.4.92:1121?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="少儿动画" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/少儿动画.png" group-title="教育卡通" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",少儿动画
-http://192.168.110.1:5678/rtp/225.1.4.189:1238/3221225970/10000100000000060000000000273221_0.smil?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="少儿动画" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/少儿动画.png" group-title="教育卡通" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225970/10000100000000060000000000273221_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",少儿动画
+http://192.168.110.1:5678/rtp/225.1.4.189:1238?fcc=10.254.216.130:8027
 #EXTINF:-1 tvg-name="国学频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/国学.png" group-title="教育卡通" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221226490/10000100000000060000000004627055_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",国学频道
 http://192.168.110.1:5678/rtp/225.1.4.196:1311?fcc=10.254.216.130:8027
 #EXTINF:-1 tvg-name="好学生" tvg-logo="https://epg.v1.mk/logo/%E5%9B%BD%E5%AD%A6.png" group-title="教育卡通" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225967/10000100000000060000000000273225_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",好学生
