@@ -1,267 +1,295 @@
 #EXTM3U x-tvg-url="http://192.168.110.100:5678/t.xml.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="央视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225621/10000100000000060000000000009742_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV1
-http://192.168.110.1:5678/rtp/225.1.4.73:1102?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png" group-title="央视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225622/10000100000000060000000000009740_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV2
-http://192.168.110.1:5678/rtp/225.1.4.74:1103?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV3.png" group-title="央视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225846/10000100000000060000000000154432_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV3
-http://192.168.110.1:5678/rtp/225.1.4.158:1194?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png" group-title="央视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221226537/184048377.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV4
-http://192.168.110.1:5678/rtp/225.1.5.30:1333?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png" group-title="央视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225840/10000100000000060000000000154411_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV5
-http://192.168.110.1:5678/rtp/225.1.4.159:1195?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5+.png" group-title="央视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225623/10000100000000060000000000009741_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV5+
-http://192.168.110.1:5678/rtp/225.1.4.75:1104?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6.png" group-title="央视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225841/10000100000000060000000000154410_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV6
-http://192.168.110.1:5678/rtp/225.1.4.160:1196?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV7.png" group-title="央视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225624/10000100000000060000000000009735_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV7
-http://192.168.110.1:5678/rtp/225.1.4.76:1105?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8.png" group-title="央视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225842/10000100000000060000000000154409_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV8
-http://192.168.110.1:5678/rtp/225.1.4.161:1197?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV9.png" group-title="央视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225625/10000100000000060000000000009739_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV9
-http://192.168.110.1:5678/rtp/225.1.4.77:1106?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10.png" group-title="央视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225626/10000100000000060000000000009738_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV10
-http://192.168.110.1:5678/rtp/225.1.4.78:1107?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11.png" group-title="央视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221226437/10000100000000060000000002779152_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV11
-http://192.168.110.1:5678/rtp/225.1.4.215:1268?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV12.png" group-title="央视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225627/10000100000000060000000000009737_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV12
-http://192.168.110.1:5678/rtp/225.1.4.79:1108?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png" group-title="央视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221226521/10000100000000060000000004577862_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV13
-http://192.168.110.1:5678/rtp/225.1.4.113:1293?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png" group-title="央视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225628/10000100000000060000000000009736_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV14
-http://192.168.110.1:5678/rtp/225.1.4.80:1109?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15.png" group-title="央视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221226463/10000100000000060000000002779151_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV15
-http://192.168.110.1:5678/rtp/225.1.4.216:1269?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17.png" group-title="央视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221226451/10000100000000060000000002754622_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV17
-http://192.168.110.1:5678/rtp/225.1.4.226:2506?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4K.png" group-title="央视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221226611/334810787.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV4K
-http://192.168.110.1:5678/rtp/225.1.5.65:1375?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="CCTV4中文国际欧洲" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png" group-title="央视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221226603/186802328.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV4中文国际欧洲
-http://192.168.110.1:5678/rtp/225.1.5.31:1342?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="CCTV4中文国际美洲" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png" group-title="央视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221226584/186798824.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV4中文国际美洲
-http://192.168.110.1:5678/rtp/225.1.5.32:1343?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="央视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225620/10000100000000060000000000009743_0.smil.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CGTN
-http://192.168.110.1:5678/rtp/225.1.4.16:1045?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN英语.png" group-title="央视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221226577/186798828.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CGTN英语
-http://192.168.110.1:5678/rtp/225.1.5.34:1344?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN法语.png" group-title="央视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221226560/186802324.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CGTN法语
-http://192.168.110.1:5678/rtp/225.1.5.37:1347?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN西班牙语.png" group-title="央视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221226565/186798818.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CGTN西班牙语
-http://192.168.110.1:5678/rtp/225.1.5.36:1346?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN阿拉伯语.png" group-title="央视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221226570/186798817.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CGTN阿拉伯语
-http://192.168.110.1:5678/rtp/225.1.5.38:1348?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN俄语.png" group-title="央视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221226613/186802948.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CGTN俄语
-http://192.168.110.1:5678/rtp/225.1.5.39:1349?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="CGTN英文记录" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="央视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221226608/186802952.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CGTN英文纪录
-http://192.168.110.1:5678/rtp/225.1.5.35:1345?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221226612/401383125.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",北京卫视4K
-http://192.168.110.1:5678/rtp/225.1.5.67:1377?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="深圳卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221226626/408619920.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",深圳卫视4K
-http://192.168.110.1:5678/rtp/225.1.5.68:1378?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="广东卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221226609/408619922.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",广东卫视4K
-http://192.168.110.1:5678/rtp/225.1.5.69:1379?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="东方卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221226617/416656552.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",东方卫视4K
-http://192.168.110.1:5678/rtp/225.1.5.70:1380?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="江苏卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江苏卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221226630/416656642.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",江苏卫视4K
-http://192.168.110.1:5678/rtp/225.1.5.71:1381?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="浙江卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221226635/416656559.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",浙江卫视4K
-http://192.168.110.1:5678/rtp/225.1.5.72:1382?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="山东卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221226622/416656605.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",山东卫视4K
-http://192.168.110.1:5678/rtp/225.1.5.73:1383?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="湖南卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221226614/416656566.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",湖南卫视4K
-http://192.168.110.1:5678/rtp/225.1.5.76:1386?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="四川卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/四川卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221226619/416656656.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",四川卫视4K
-http://192.168.110.1:5678/rtp/225.1.5.75:1385?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京纪实科教.png" group-title="卫视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221226620/385398376.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",北京纪实科教
-http://192.168.110.1:5678/rtp/225.1.5.74:1384?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225629/10000100000000060000000000009767_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",北京卫视
-http://192.168.110.1:5678/rtp/225.1.4.81:1110?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225630/10000100000000060000000000009766_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",湖南卫视
-http://192.168.110.1:5678/rtp/225.1.4.82:1111?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225632/10000100000000060000000000009761_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",浙江卫视
-http://192.168.110.1:5678/rtp/225.1.4.84:1113?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225633/10000100000000060000000000009762_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",东方卫视
-http://192.168.110.1:5678/rtp/225.1.4.85:1114?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江苏卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225631/10000100000000060000000000009763_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",江苏卫视
-http://192.168.110.1:5678/rtp/225.1.4.83:1112?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/安徽卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225645/10000100000000060000000000009757_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",安徽卫视
-http://192.168.110.1:5678/rtp/225.1.4.87:1116?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/重庆卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221226539/10000100000000060000000004577297_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",重庆卫视
-http://192.168.110.1:5678/rtp/225.1.4.157:1308?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/四川卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221226487/10000100000000060000000004577300_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",四川卫视
-http://192.168.110.1:5678/rtp/225.1.4.151:1306?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东南卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221226483/10000100000000060000000002828395_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",东南卫视
-http://192.168.110.1:5678/rtp/225.1.4.228:1274?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225640/10000100000000060000000000009764_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",深圳卫视
-http://192.168.110.1:5678/rtp/225.1.4.90:1119?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225907/10000100000000060000000000273215_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",广东卫视
-http://192.168.110.1:5678/rtp/225.1.4.166:1207?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广西卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225655/10000100000000060000000000009790_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",广西卫视
-http://192.168.110.1:5678/rtp/225.1.4.31:1060?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/厦门卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225678/10000100000000060000000000009830_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",厦门卫视
-http://192.168.110.1:5678/rtp/225.1.4.95:1124?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/甘肃卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225671/10000100000000060000000000009783_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",甘肃卫视
-http://192.168.110.1:5678/rtp/225.1.4.42:1071?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/贵州卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221226516/10000100000000060000000004577298_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",贵州卫视
-http://192.168.110.1:5678/rtp/225.1.4.122:1302?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河北卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221226497/10000100000000060000000004577296_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",河北卫视
-http://192.168.110.1:5678/rtp/225.1.4.123:1304?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225643/10000100000000060000000000009765_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",黑龙江卫视
-http://192.168.110.1:5678/rtp/225.1.4.91:1120?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225638/10000100000000060000000000009759_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",湖北卫视
-http://192.168.110.1:5678/rtp/225.1.4.89:1118?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221226534/10000100000000060000000004577301_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",江西卫视
-http://192.168.110.1:5678/rtp/225.1.4.139:1305?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/吉林卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221226502/10000100000000060000000004577295_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",吉林卫视
-http://192.168.110.1:5678/rtp/225.1.4.174:1309?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山西卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225666/10000100000000060000000000009778_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",山西卫视
-http://192.168.110.1:5678/rtp/225.1.4.38:1067?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/陕西卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225667/10000100000000060000000000009788_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",陕西卫视
-http://192.168.100.1:8188/rtp/225.1.4.39:1068?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/内蒙古卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225676/10000100000000060000000000009779_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",内蒙古卫视
-http://192.168.110.1:5678/rtp/225.1.4.45:1074?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225908/10000100000000060000000000273214_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",辽宁卫视
-http://192.168.110.1:5678/rtp/225.1.4.167:1208?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/宁夏卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225673/10000100000000060000000000009792_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",宁夏卫视
-http://192.168.110.1:5678/rtp/225.1.4.43:1072?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/青海卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225674/10000100000000060000000000009781_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",青海卫视
-http://192.168.110.1:5678/rtp/225.1.4.44:1073?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225636/10000100000000060000000000009758_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",山东卫视
-http://192.168.110.1:5678/rtp/225.1.4.88:1117?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天津卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225634/10000100000000060000000000009760_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",天津卫视
-http://192.168.110.1:5678/rtp/225.1.4.86:1115?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/海南卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221226485/10000100000000060000000004577294_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",海南卫视
-http://192.168.110.1:5678/rtp/225.1.4.195:1310?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/新疆卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225679/10000100000000060000000000009780_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",新疆卫视
-http://192.168.110.1:5678/rtp/225.1.4.47:1076?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/云南卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221226492/10000100000000060000000004577299_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",云南卫视
-http://192.168.110.1:5678/rtp/225.1.4.152:1307?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/西藏卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225677/10000100000000060000000000009777_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",西藏卫视
-http://192.168.110.1:5678/rtp/225.1.4.46:1075?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/兵团卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225683/10000100000000060000000000009832_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",兵团卫视
-http://192.168.110.1:5678/rtp/225.1.4.97:1126?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/三沙卫视.png" group-title="卫视频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221226464/10000100000000060000000002828394_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",三沙卫视
-http://192.168.110.1:5678/rtp/225.1.4.234:1280?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="河南卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河南卫视.png" group-title="河南地方频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221226484/10000100000000060000000002806582_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",河南卫视4K
-http://192.168.110.1:5678/rtp/225.1.4.254:1300?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河南卫视.png" group-title="河南地方频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225819/10000100000000060000000000154392_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",河南卫视
-http://192.168.110.1:5678/rtp/225.1.4.98:1127?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="河南都市频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河南都市.png" group-title="河南地方频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225836/10000100000000060000000000154415_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",河南都市频道
-http://192.168.110.1:5678/rtp/225.1.4.52:1081?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="河南民生频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河南民生.png" group-title="河南地方频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225838/10000100000000060000000000154414_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",河南民生频道
-http://192.168.110.1:5678/rtp/225.1.4.53:1082?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="河南法治频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河南法治.png" group-title="河南地方频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225818/10000100000000060000000000154393_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",河南法治频道
-http://192.168.110.1:5678/rtp/225.1.4.54:1083?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="河南电视剧频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河南电视剧.png" group-title="河南地方频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225837/10000100000000060000000000154413_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",河南电视剧频道
-http://192.168.110.1:5678/rtp/225.1.4.55:1084?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="河南新闻频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河南新闻.png" group-title="河南地方频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225817/10000100000000060000000000154394_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",河南新闻频道
-http://192.168.110.1:5678/rtp/225.1.4.56:1085?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="河南公共频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河南公共.png" group-title="河南地方频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225824/10000100000000060000000000154387_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",河南公共频道
-http://192.168.110.1:5678/rtp/225.1.4.58:1087?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="河南乡村频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河南乡村.png" group-title="河南地方频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225816/10000100000000060000000000154395_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",河南乡村频道
-http://192.168.110.1:5678/rtp/225.1.4.120:1149?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="河南文物宝库" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河南文物宝库.png" group-title="河南地方频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225821/10000100000000060000000000154390_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",河南文物宝库
-http://192.168.110.1:5678/rtp/225.1.4.100:1129?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="河南梨园频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河南梨园.png" group-title="河南地方频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225822/10000100000000060000000000154389_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",河南梨园频道
-http://192.168.110.1:5678/rtp/225.1.4.99:1128?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="河南武术世界" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河南武术世界.png" group-title="河南地方频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225820/10000100000000060000000000154391_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",河南武术世界
-http://192.168.110.1:5678/rtp/225.1.4.101:1130?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="河南移动电视" tvg-logo="https://epg.v1.mk/logo/%E6%B2%B3%E5%8D%97%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86.png" group-title="河南地方频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221226555/186808475.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",河南移动电视
-http://192.168.110.1:5678/rtp/225.1.5.40:1350?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="导视" tvg-logo="https://epg.v1.mk/logo/%E6%B2%B3%E5%8D%97IPTV-%E5%AF%BC%E8%A7%86.png" group-title="河南地方频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221226658/284611877.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",导视
-http://192.168.110.1:5678/rtp/225.1.4.194:1244?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="南阳新闻综合" group-title="河南地方频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225858/10000100000000060000000000154950_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",南阳新闻综合
-http://192.168.110.1:5678/rtp/225.1.4.114:1143?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="南阳公共频道" group-title="河南地方频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225859/10000100000000060000000000154949_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",南阳公共频道
-http://192.168.110.1:5678/rtp/225.1.4.115:1144?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="南阳科教频道" group-title="河南地方频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225860/10000100000000060000000000154948_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",南阳科教频道
-http://192.168.110.1:5678/rtp/225.1.4.116:1145?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="南阳图文信息" group-title="河南地方频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225861/10000100000000060000000000154947_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",南阳图文信息
-http://192.168.110.1:5678/rtp/225.1.4.117:1146?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="邓州新闻" group-title="河南地方频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221226455/10000100000000060000000003302818_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",邓州新闻
-http://192.168.110.1:5678/rtp/225.1.4.193:1243?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="淅川综合" group-title="河南地方频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221226496/10000100000000060000000004529689_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",淅川综合
-http://192.168.110.1:5678/rtp/225.1.4.112:1292?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="镇平电视台" group-title="河南地方频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221226578/183703875.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",镇平电视台
-http://192.168.110.1:5678/rtp/225.1.5.24:1336?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="健康中原" tvg-logo="https://epg.v1.mk/logo/%E5%81%A5%E5%BA%B7%E4%B8%AD%E5%8E%9F.png" group-title="河南地方频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",健康中原
-http://192.168.110.1:5678/rtp/225.1.5.48:1358?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC动作电影.png" group-title="影视剧场频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221226499/10000100000000060000000003445719_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CHC动作电影
-http://192.168.110.1:5678/rtp/225.1.4.208:1261?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC高清电影.png" group-title="影视剧场频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221226494/10000100000000060000000003445720_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CHC影迷电影
-http://192.168.110.1:5678/rtp/225.1.4.207:1260?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC家庭影院.png" group-title="影视剧场频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221226467/10000100000000060000000003445718_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CHC家庭影院
-http://192.168.110.1:5678/rtp/225.1.4.209:1262?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="新动漫" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/新动漫.png" group-title="影视剧场频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221226460/10000100000000060000000003445716_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",新动漫
-http://192.168.110.1:5678/rtp/225.1.4.212:1265?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="精选" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/精选.png" group-title="影视剧场频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221226462/10000100000000060000000003268581_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",精选
-http://192.168.110.1:5678/rtp/225.1.4.253:1299?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="爱电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/AMC最爱电影.png" group-title="影视剧场频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225659/10000100000000060000000000009726_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",爱电影
-http://192.168.110.1:5678/rtp/225.1.4.6:1035?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="爱大剧" tvg-logo="https://epg.v1.mk/logo/%E7%88%B1%E5%A4%A7%E5%89%A7.png" group-title="影视剧场频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225660/10000100000000060000000000009725_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",爱大剧
-http://192.168.110.1:5678/rtp/225.1.4.8:1037?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="经典电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/经典电影.png" group-title="影视剧场频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225959/10000100000000060000000000273311_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",经典电影
-http://192.168.110.1:5678/rtp/225.1.4.175:1233?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="热播剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/热播剧场.png" group-title="影视剧场频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225960/10000100000000060000000000273310_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",热播剧场
-http://192.168.110.1:5678/rtp/225.1.4.190:1239?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="IPTV谍战剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV谍战剧场.png" group-title="影视剧场频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225971/10000100000000060000000000273220_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",IPTV谍战剧场
-http://192.168.110.1:5678/rtp/225.1.4.185:1240?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="IPTV相声小品" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV相声小品.png" group-title="影视剧场频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225974/10000100000000060000000000273217_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",IPTV相声小品
-http://192.168.110.1:5678/rtp/225.1.4.186:1235?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="爱上-4k" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/爱上4K.png" group-title="影视剧场频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225901/10000100000000060000000000193174_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",爱上-4k
-http://192.168.110.1:5678/rtp/225.1.4.162:1204?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="高网" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/央视高网.png" group-title="影视剧场频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225966/10000100000000060000000000273226_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",高网
-http://192.168.110.1:5678/rtp/225.1.4.180:1229?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="收视指南" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/收视指南.png" group-title="影视剧场频道" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225681/10000100000000060000000000009827_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",收视指南
-http://192.168.110.1:5678/rtp/225.1.4.50:1079?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="卡酷动画" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/卡酷动画.png" group-title="教育卡通" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225680/10000100000000060000000000009826_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",卡酷动画
-http://192.168.110.1:5678/rtp/225.1.4.48:1077?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/金鹰卡通.png" group-title="教育卡通" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221226468/10000100000000060000000002837571_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",金鹰卡通
-http://192.168.110.1:5678/rtp/225.1.4.49:1078?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/嘉佳卡通.png" group-title="教育卡通" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225669/10000100000000060000000000009825_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",嘉佳卡通
-http://192.168.110.1:5678/rtp/225.1.4.92:1121?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="少儿动画" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/少儿动画.png" group-title="教育卡通" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225970/10000100000000060000000000273221_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",少儿动画
-http://192.168.110.1:5678/rtp/225.1.4.189:1238?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="国学频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/国学.png" group-title="教育卡通" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221226490/10000100000000060000000004627055_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",国学频道
-http://192.168.110.1:5678/rtp/225.1.4.196:1311?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="好学生" tvg-logo="https://epg.v1.mk/logo/%E5%9B%BD%E5%AD%A6.png" group-title="教育卡通" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225967/10000100000000060000000000273225_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",好学生
-http://192.168.110.1:5678/rtp/225.1.4.177:1226?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="中国教育1台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中国教育1.png" group-title="教育卡通" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225900/10000100000000060000000000188019_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",中国教育1台
-http://192.168.110.1:5678/rtp/225.1.4.173:1712?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="中国教育2台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中国教育2.png" group-title="教育卡通" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225906/10000100000000060000000000273211_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",中国教育2台
-http://192.168.110.1:5678/rtp/225.1.4.165:1206?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="中国教育4台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中国教育4.png" group-title="教育卡通" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225898/10000100000000060000000000188017_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",中国教育4台
-http://192.168.110.1:5678/rtp/225.1.4.171:1710?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="国学" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/国学.png" group-title="教育卡通" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225964/10000100000000060000000000273228_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",国学
-http://192.168.110.1:5678/rtp/225.1.4.178:1227?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东教育.png" group-title="教育卡通" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225905/10000100000000060000000000274123_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",山东教育
-http://192.168.110.1:5678/rtp/225.1.4.164:1205?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="早教" tvg-logo="https://epg.v1.mk/logo/%E6%97%A9%E6%95%99.png" group-title="教育卡通" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225965/10000100000000060000000000273227_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",早教
-http://192.168.110.1:5678/rtp/225.1.4.179:1228?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/金鹰纪实.png" group-title="人文地理" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225899/10000100000000060000000000188018_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",金鹰纪实
-http://192.168.110.1:5678/rtp/225.1.4.172:1711?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="地理" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/4K地理.png" group-title="人文地理" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225961/10000100000000060000000000273231_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",地理
-http://192.168.110.1:5678/rtp/225.1.4.183:1232?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="IPTV野外" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV野外.png" group-title="人文地理" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225972/10000100000000060000000000273219_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",IPTV野外
-http://192.168.110.1:5678/rtp/225.1.4.187:1236?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="IPTV法治" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV法治.png" group-title="人文地理" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225973/10000100000000060000000000273218_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",IPTV法治
-http://192.168.110.1:5678/rtp/225.1.4.188:1237?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="美妆" tvg-logo="https://epg.v1.mk/logo/%E7%BE%8E%E5%A6%86.png" group-title="人文地理" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225962/10000100000000060000000000273230_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",美妆
-http://192.168.110.1:5678/rtp/225.1.4.182:1231?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="爱生活" tvg-logo="https://epg.v1.mk/logo/%E7%88%B1%E7%94%9F%E6%B4%BB.png" group-title="人文地理" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225968/10000100000000060000000000273224_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",爱生活
-http://192.168.110.1:5678/rtp/225.1.4.176:1225?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="魅力时尚" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/魅力时尚.png" group-title="人文地理" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221226424/10000100000000060000000000756291_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",魅力时尚
-http://192.168.110.1:5678/rtp/225.1.4.205:1253?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="中华特产" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中华特产.png" group-title="人文地理" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221226581/230420492.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",中华特产
-http://192.168.110.1:5678/rtp/225.1.5.19:1330?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="爱综艺" tvg-logo="https://epg.v1.mk/logo/%E7%88%B1%E7%BB%BC%E8%89%BA.png" group-title="人文地理" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221226431/10000100000000060000000000756292_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",爱综艺
-http://192.168.110.1:5678/rtp/225.1.4.204:1252?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="军事" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/军事.png" group-title="人文地理" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225963/10000100000000060000000000273229_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",军事评论
-http://192.168.110.1:5678/rtp/225.1.4.181:1230?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="音乐现场" tvg-logo="https://epg.v1.mk/logo/%E9%9F%B3%E4%B9%90%E7%8E%B0%E5%9C%BA.png" group-title="体育音乐" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225969/10000100000000060000000000273222_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",音乐现场
-http://192.168.110.1:5678/rtp/225.1.4.184:1224?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="足球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/足球.png" group-title="体育音乐" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221226422/10000100000000060000000000575435_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",足球
-http://192.168.110.1:5678/rtp/225.1.4.200:1250?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="爱体育" tvg-logo="https://epg.v1.mk/logo/%E7%88%B1%E4%BD%93%E8%82%B2%E9%AB%98%E6%B8%85.png" group-title="体育音乐" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221225909/10000100000000060000000000273213_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",爱体育
-http://192.168.110.1:5678/rtp/225.1.4.168:1220?fcc=10.254.216.130:8027
-#EXTINF:-1 tvg-name="乒羽频道" tvg-logo="https://epg.v1.mk/logo/%E4%B9%92%E7%BE%BD%E9%A2%91%E9%81%93.png" group-title="体育音乐" catchup="default" catchup-source="http://192.168.110.1:5678/rtsp/10.254.216.130/TVOD/88888888/224/3221226472/10000100000000060000000003445715_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",乒羽频道
-http://192.168.110.1:5678/rtp/225.1.4.210:1263?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="央视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225621/10000100000000060000000000009742_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV1
+rtp://225.1.4.73:1102?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png" group-title="央视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225622/10000100000000060000000000009740_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV2
+rtp://225.1.4.74:1103?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV3.png" group-title="央视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225846/10000100000000060000000000154432_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV3
+rtp://225.1.4.158:1194?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png" group-title="央视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226537/184048377.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV4
+rtp://225.1.5.30:1333?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png" group-title="央视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225840/10000100000000060000000000154411_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV5
+rtp://225.1.4.159:1195?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5+.png" group-title="央视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225623/10000100000000060000000000009741_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV5+
+rtp://225.1.4.75:1104?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6.png" group-title="央视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225841/10000100000000060000000000154410_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV6
+rtp://225.1.4.160:1196?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV7.png" group-title="央视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225624/10000100000000060000000000009735_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV7
+rtp://225.1.4.76:1105?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8.png" group-title="央视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225842/10000100000000060000000000154409_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV8
+rtp://225.1.4.161:1197?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV9.png" group-title="央视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225625/10000100000000060000000000009739_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV9
+rtp://225.1.4.77:1106?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10.png" group-title="央视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225626/10000100000000060000000000009738_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV10
+rtp://225.1.4.78:1107?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11.png" group-title="央视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226437/10000100000000060000000002779152_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV11
+rtp://225.1.4.215:1268?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV12.png" group-title="央视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225627/10000100000000060000000000009737_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV12
+rtp://225.1.4.79:1108?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png" group-title="央视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226521/10000100000000060000000004577862_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV13
+rtp://225.1.4.113:1293?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png" group-title="央视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225628/10000100000000060000000000009736_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV14
+rtp://225.1.4.80:1109?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15.png" group-title="央视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226463/10000100000000060000000002779151_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV15
+rtp://225.1.4.216:1269?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17.png" group-title="央视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226451/10000100000000060000000002754622_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV17
+rtp://225.1.4.226:2506?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4K.png" group-title="央视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226611/334810787.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV4K
+rtp://225.1.5.65:1375?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="CCTV4中文国际欧洲" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png" group-title="央视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226603/186802328.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV4中文国际欧洲
+rtp://225.1.5.31:1342?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="CCTV4中文国际美洲" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png" group-title="央视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226584/186798824.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV4中文国际美洲
+rtp://225.1.5.32:1343?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="央视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225620/10000100000000060000000000009743_0.smil.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CGTN
+rtp://225.1.4.16:1045?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN英语.png" group-title="央视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226577/186798828.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CGTN英语
+rtp://225.1.5.34:1344?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN法语.png" group-title="央视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226560/186802324.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CGTN法语
+rtp://225.1.5.37:1347?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN西班牙语.png" group-title="央视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226565/186798818.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CGTN西班牙语
+rtp://225.1.5.36:1346?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN阿拉伯语.png" group-title="央视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226570/186798817.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CGTN阿拉伯语
+rtp://225.1.5.38:1348?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN俄语.png" group-title="央视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226613/186802948.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CGTN俄语
+rtp://225.1.5.39:1349?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="CGTN英文记录" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="央视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226608/186802952.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CGTN英文纪录
+rtp://225.1.5.35:1345?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="北京卫视4K超高清" tvg-logo="https://epg.v1.mk/logo/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%864K%E8%B6%85%E9%AB%98%E6%B8%85.png" group-title="卫视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226612/401383125.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",北京卫视4K超高清
+rtp://225.1.5.67:1377?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="深圳卫视4K" tvg-logo="https://epg.v1.mk/logo/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%864K.png" group-title="卫视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226626/408619920.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",深圳卫视4K
+rtp://225.1.5.68:1378?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="广东卫视4K" tvg-logo="https://epg.v1.mk/logo/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%864K.png" group-title="卫视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226609/408619922.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",广东卫视4K
+rtp://225.1.5.69:1379?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="东方卫视4K" tvg-logo="https://epg.v1.mk/logo/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%864K.png" group-title="卫视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226617/416656552.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",东方卫视4K
+rtp://225.1.5.70:1380?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="江苏卫视4K" tvg-logo="https://epg.v1.mk/logo/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%864K.png" group-title="卫视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226630/416656642.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",江苏卫视4K
+rtp://225.1.5.71:1381?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="浙江卫视4K" tvg-logo="https://epg.v1.mk/logo/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K.png" group-title="卫视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226635/416656559.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",浙江卫视4K
+rtp://225.1.5.72:1382?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="山东卫视4K" tvg-logo="https://epg.v1.mk/logo/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%864K.png" group-title="卫视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226622/416656605.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",山东卫视4K
+rtp://225.1.5.73:1383?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="湖南卫视4K" tvg-logo="https://epg.v1.mk/logo/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K.png" group-title="卫视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226614/416656566.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",湖南卫视4K
+rtp://225.1.5.76:1386?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="四川卫视4K" tvg-logo="https://epg.v1.mk/logo/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%864K.png" group-title="卫视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226619/416656656.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",四川卫视4K
+rtp://225.1.5.75:1385?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京纪实科教.png" group-title="卫视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226620/385398376.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",北京纪实科教
+rtp://225.1.5.74:1384?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视.png" group-title="卫视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225629/10000100000000060000000000009767_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",北京卫视
+rtp://225.1.4.81:1110?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南卫视.png" group-title="卫视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225630/10000100000000060000000000009766_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",湖南卫视
+rtp://225.1.4.82:1111?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江卫视.png" group-title="卫视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225632/10000100000000060000000000009761_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",浙江卫视
+rtp://225.1.4.84:1113?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="卫视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225633/10000100000000060000000000009762_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",东方卫视
+rtp://225.1.4.85:1114?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江苏卫视.png" group-title="卫视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225631/10000100000000060000000000009763_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",江苏卫视
+rtp://225.1.4.83:1112?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/安徽卫视.png" group-title="卫视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225645/10000100000000060000000000009757_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",安徽卫视
+rtp://225.1.4.87:1116?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/重庆卫视.png" group-title="卫视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226539/10000100000000060000000004577297_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",重庆卫视
+rtp://225.1.4.157:1308?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/四川卫视.png" group-title="卫视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226487/10000100000000060000000004577300_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",四川卫视
+rtp://225.1.4.151:1306?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东南卫视.png" group-title="卫视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226483/10000100000000060000000002828395_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",东南卫视
+rtp://225.1.4.228:1274?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳卫视.png" group-title="卫视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225640/10000100000000060000000000009764_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",深圳卫视
+rtp://225.1.4.90:1119?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东卫视.png" group-title="卫视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225907/10000100000000060000000000273215_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",广东卫视
+rtp://225.1.4.166:1207?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广西卫视.png" group-title="卫视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225655/10000100000000060000000000009790_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",广西卫视
+rtp://225.1.4.31:1060?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/厦门卫视.png" group-title="卫视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225678/10000100000000060000000000009830_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",厦门卫视
+rtp://225.1.4.95:1124?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/甘肃卫视.png" group-title="卫视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225671/10000100000000060000000000009783_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",甘肃卫视
+rtp://225.1.4.42:1071?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/贵州卫视.png" group-title="卫视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226516/10000100000000060000000004577298_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",贵州卫视
+rtp://225.1.4.122:1302?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河北卫视.png" group-title="卫视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226497/10000100000000060000000004577296_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",河北卫视
+rtp://225.1.4.123:1304?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png" group-title="卫视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225643/10000100000000060000000000009765_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",黑龙江卫视
+rtp://225.1.4.91:1120?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png" group-title="卫视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225638/10000100000000060000000000009759_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",湖北卫视
+rtp://225.1.4.89:1118?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png" group-title="卫视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226534/10000100000000060000000004577301_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",江西卫视
+rtp://225.1.4.139:1305?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/吉林卫视.png" group-title="卫视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226502/10000100000000060000000004577295_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",吉林卫视
+rtp://225.1.4.174:1309?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山西卫视.png" group-title="卫视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225666/10000100000000060000000000009778_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",山西卫视
+rtp://225.1.4.38:1067?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/陕西卫视.png" group-title="卫视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225667/10000100000000060000000000009788_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",陕西卫视
+http://192.168.100.1:8188/rtp://225.1.4.39:1068?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/内蒙古卫视.png" group-title="卫视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225676/10000100000000060000000000009779_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",内蒙古卫视
+rtp://225.1.4.45:1074?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png" group-title="卫视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225908/10000100000000060000000000273214_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",辽宁卫视
+rtp://225.1.4.167:1208?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/宁夏卫视.png" group-title="卫视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225673/10000100000000060000000000009792_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",宁夏卫视
+rtp://225.1.4.43:1072?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/青海卫视.png" group-title="卫视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225674/10000100000000060000000000009781_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",青海卫视
+rtp://225.1.4.44:1073?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东卫视.png" group-title="卫视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225636/10000100000000060000000000009758_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",山东卫视
+rtp://225.1.4.88:1117?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天津卫视.png" group-title="卫视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225634/10000100000000060000000000009760_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",天津卫视
+rtp://225.1.4.86:1115?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/海南卫视.png" group-title="卫视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226485/10000100000000060000000004577294_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",海南卫视
+rtp://225.1.4.195:1310?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/新疆卫视.png" group-title="卫视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225679/10000100000000060000000000009780_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",新疆卫视
+rtp://225.1.4.47:1076?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/云南卫视.png" group-title="卫视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226492/10000100000000060000000004577299_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",云南卫视
+rtp://225.1.4.152:1307?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/西藏卫视.png" group-title="卫视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225677/10000100000000060000000000009777_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",西藏卫视
+rtp://225.1.4.46:1075?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/兵团卫视.png" group-title="卫视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225683/10000100000000060000000000009832_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",兵团卫视
+rtp://225.1.4.97:1126?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/三沙卫视.png" group-title="卫视频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226464/10000100000000060000000002828394_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",三沙卫视
+rtp://225.1.4.234:1280?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="河南卫视4K" tvg-logo="https://epg.v1.mk/logo/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%864K.png" group-title="河南地方频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226484/10000100000000060000000002806582_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",河南卫视4K
+rtp://225.1.4.254:1300?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河南卫视.png" group-title="河南地方频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225819/10000100000000060000000000154392_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",河南卫视
+rtp://225.1.4.98:1127?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="河南都市频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河南都市.png" group-title="河南地方频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225836/10000100000000060000000000154415_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",河南都市频道
+rtp://225.1.4.52:1081?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="河南民生频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河南民生.png" group-title="河南地方频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225838/10000100000000060000000000154414_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",河南民生频道
+rtp://225.1.4.53:1082?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="河南法治频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河南法治.png" group-title="河南地方频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225818/10000100000000060000000000154393_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",河南法治频道
+rtp://225.1.4.54:1083?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="河南电视剧频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河南电视剧.png" group-title="河南地方频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225837/10000100000000060000000000154413_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",河南电视剧频道
+rtp://225.1.4.55:1084?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="河南新闻频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河南新闻.png" group-title="河南地方频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225817/10000100000000060000000000154394_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",河南新闻频道
+rtp://225.1.4.56:1085?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="河南公共频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河南公共.png" group-title="河南地方频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225824/10000100000000060000000000154387_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",河南公共频道
+rtp://225.1.4.58:1087?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="河南乡村频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河南乡村.png" group-title="河南地方频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225816/10000100000000060000000000154395_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",河南乡村频道
+rtp://225.1.4.120:1149?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="河南文物宝库" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河南文物宝库.png" group-title="河南地方频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225821/10000100000000060000000000154390_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",河南文物宝库
+rtp://225.1.4.100:1129?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="河南梨园频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河南梨园.png" group-title="河南地方频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225822/10000100000000060000000000154389_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",河南梨园频道
+rtp://225.1.4.99:1128?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="河南武术世界" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河南武术世界.png" group-title="河南地方频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225820/10000100000000060000000000154391_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",河南武术世界
+rtp://225.1.4.101:1130?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="河南移动电视" tvg-logo="https://epg.v1.mk/logo/%E6%B2%B3%E5%8D%97%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86.png" group-title="河南地方频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226555/186808475.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",河南移动电视
+rtp://225.1.5.40:1350?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="导视" tvg-logo="https://epg.v1.mk/logo/%E5%AF%BC%E8%A7%86.png" group-title="河南地方频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226658/284611877.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",导视
+rtp://225.1.4.194:1244?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="南阳新闻综合" group-title="河南地方频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225858/10000100000000060000000000154950_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",南阳新闻综合
+rtp://225.1.4.114:1143?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="南阳公共频道" group-title="河南地方频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225859/10000100000000060000000000154949_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",南阳公共频道
+rtp://225.1.4.115:1144?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="南阳科教频道" group-title="河南地方频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225860/10000100000000060000000000154948_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",南阳科教频道
+rtp://225.1.4.116:1145?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="南阳图文信息" group-title="河南地方频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225861/10000100000000060000000000154947_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",南阳图文信息
+rtp://225.1.4.117:1146?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="邓州新闻" group-title="河南地方频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226455/10000100000000060000000003302818_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",邓州新闻
+rtp://225.1.4.193:1243?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="淅川综合" group-title="河南地方频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226496/10000100000000060000000004529689_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",淅川综合
+rtp://225.1.4.112:1292?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="镇平电视台" group-title="河南地方频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226578/183703875.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",镇平电视台
+rtp://225.1.5.24:1336?fcc=10.254.216.130:8027
+
+#EXTINF:-1 tvg-name="许昌综合频道" tvg-logo="https://epg.v1.mk/logo/%E8%AE%B8%E6%98%8C%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png" group-title="河南地方频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225847/10000100000000060000000000154442_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",许昌综合频道
+rtsp://10.254.216.130/PLTV/88888888/224/3221225847/10000100000000060000000000154442_0.smil
+#EXTINF:-1 tvg-name="许昌农业科教频道" tvg-logo="https://epg.v1.mk/logo/%E8%AE%B8%E6%98%8C%E5%86%9C%E4%B8%9A%E7%A7%91%E6%95%99%E9%A2%91%E9%81%93.png" group-title="河南地方频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225849/10000100000000060000000000154440_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",许昌农业科教频道
+rtsp://10.254.216.130/PLTV/88888888/224/3221225849/10000100000000060000000000154440_0.smil
+#EXTINF:-1 tvg-name="禹州综合" tvg-logo="https://epg.v1.mk/logo/%E7%A6%B9%E5%B7%9E%E7%BB%BC%E5%90%88.png" group-title="河南地方频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226470/10000100000000060000000004439210_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",禹州综合
+rtsp://10.254.216.130/PLTV/88888888/224/3221226470/10000100000000060000000004439210_0.smil
+#EXTINF:-1 tvg-name="郑州时政高清" tvg-logo="https://epg.v1.mk/logo/%E9%83%91%E5%B7%9E%E6%97%B6%E6%94%BF%E9%AB%98%E6%B8%85.png" group-title="河南地方频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225828/10000100000000060000000000154403_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",郑州时政高清
+rtsp://10.254.216.130/PLTV/88888888/224/3221225828/10000100000000060000000000154403_0.smil
+#EXTINF:-1 tvg-name="郑州商都高清" tvg-logo="https://epg.v1.mk/logo/%E9%83%91%E5%B7%9E%E5%95%86%E9%83%BD%E9%AB%98%E6%B8%85.png" group-title="河南地方频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225827/10000100000000060000000000154404_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",郑州商都高清
+rtsp://10.254.216.130/PLTV/88888888/224/3221225827/10000100000000060000000000154404_0.smil
+#EXTINF:-1 tvg-name="郑州文体高清" tvg-logo="https://epg.v1.mk/logo/%E9%83%91%E5%B7%9E%E6%96%87%E4%BD%93%E9%AB%98%E6%B8%85.png" group-title="河南地方频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225826/10000100000000060000000000154405_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",郑州文体高清
+rtsp://10.254.216.130/PLTV/88888888/224/3221225826/10000100000000060000000000154405_0.smil
+#EXTINF:-1 tvg-name="郑州影视戏曲" tvg-logo="https://epg.v1.mk/logo/%E9%83%91%E5%B7%9E%E5%BD%B1%E8%A7%86%E6%88%8F%E6%9B%B2.png" group-title="河南地方频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225832/10000100000000060000000000154399_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",郑州影视戏曲
+rtsp://10.254.216.130/PLTV/88888888/224/3221225832/10000100000000060000000000154399_0.smil
+#EXTINF:-1 tvg-name="郑州妇女儿童" tvg-logo="https://epg.v1.mk/logo/%E9%83%91%E5%B7%9E%E5%A6%87%E5%A5%B3%E5%84%BF%E7%AB%A5.png" group-title="河南地方频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225831/10000100000000060000000000154400_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",郑州妇女儿童
+rtsp://10.254.216.130/PLTV/88888888/224/3221225831/10000100000000060000000000154400_0.smil
+#EXTINF:-1 tvg-name="郑州都市生活" tvg-logo="https://epg.v1.mk/logo/%E9%83%91%E5%B7%9E%E9%83%BD%E5%B8%82%E7%94%9F%E6%B4%BB.png" group-title="河南地方频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225830/10000100000000060000000000154401_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",郑州都市生活
+rtsp://10.254.216.130/PLTV/88888888/224/3221225830/10000100000000060000000000154401_0.smil
+#EXTINF:-1 tvg-name="郑州市教育电视台" tvg-logo="https://epg.v1.mk/logo/%E9%83%91%E5%B7%9E%E5%B8%82%E6%95%99%E8%82%B2%E7%94%B5%E8%A7%86%E5%8F%B0.png" group-title="河南地方频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226433/10000100000000060000000000592640_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",郑州市教育电视台
+rtsp://10.254.216.130/PLTV/88888888/224/3221226433/10000100000000060000000000592640_0.smil
+#EXTINF:-1 tvg-name="新密综合" tvg-logo="https://epg.v1.mk/logo/%E6%96%B0%E5%AF%86%E7%BB%BC%E5%90%88.png" group-title="河南地方频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226496/10000100000000060000000004529689_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",新密综合
+rtsp://10.254.216.130/PLTV/88888888/224/3221226496/10000100000000060000000004529689_0.smil
+#EXTINF:-1 tvg-name="登封综合" tvg-logo="https://epg.v1.mk/logo/%E7%99%BB%E5%B0%81%E7%BB%BC%E5%90%88.png" group-title="河南地方频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226514/10000100000000060000000004529695_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",登封综合
+rtsp://10.254.216.130/PLTV/88888888/224/3221226514/10000100000000060000000004529695_0.smil
+#EXTINF:-1 tvg-name="中牟综合" tvg-logo="https://epg.v1.mk/logo/%E4%B8%AD%E7%89%9F%E7%BB%BC%E5%90%88.png" group-title="河南地方频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226482/10000100000000060000000004565606_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",中牟综合
+rtsp://10.254.216.130/PLTV/88888888/224/3221226482/10000100000000060000000004565606_0.smil
+
+#EXTINF:-1 tvg-name="健康中原" tvg-logo="https://epg.v1.mk/logo/%E5%81%A5%E5%BA%B7%E4%B8%AD%E5%8E%9F.png" group-title="河南地方频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226580/218763276.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",健康中原
+rtp://225.1.5.48:1358?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC动作电影.png" group-title="影视剧场频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226499/10000100000000060000000003445719_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CHC动作电影
+rtp://225.1.4.208:1261?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://epg.v1.mk/logo/CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1.png" group-title="影视剧场频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226494/10000100000000060000000003445720_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CHC影迷电影
+rtp://225.1.4.207:1260?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC家庭影院.png" group-title="影视剧场频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226467/10000100000000060000000003445718_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CHC家庭影院
+rtp://225.1.4.209:1262?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="新动漫" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/新动漫.png" group-title="影视剧场频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226460/10000100000000060000000003445716_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",新动漫
+rtp://225.1.4.212:1265?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="精选" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/精选.png" group-title="影视剧场频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226462/10000100000000060000000003268581_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",精选
+rtp://225.1.4.253:1299?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="爱电影" tvg-logo="https://epg.v1.mk/logo/%E7%88%B1%E7%94%B5%E5%BD%B1.png" group-title="影视剧场频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225659/10000100000000060000000000009726_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",爱电影
+rtp://225.1.4.6:1035?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="爱大剧" tvg-logo="https://epg.v1.mk/logo/%E7%88%B1%E5%A4%A7%E5%89%A7.png" group-title="影视剧场频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225660/10000100000000060000000000009725_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",爱大剧
+rtp://225.1.4.8:1037?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="经典电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/经典电影.png" group-title="影视剧场频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225959/10000100000000060000000000273311_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",经典电影
+rtp://225.1.4.175:1233?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="热播剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/热播剧场.png" group-title="影视剧场频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225960/10000100000000060000000000273310_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",热播剧场
+rtp://225.1.4.190:1239?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="IPTV谍战剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV谍战剧场.png" group-title="影视剧场频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225971/10000100000000060000000000273220_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",IPTV谍战剧场
+rtp://225.1.4.185:1240?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="IPTV相声小品" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV相声小品.png" group-title="影视剧场频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225974/10000100000000060000000000273217_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",IPTV相声小品
+rtp://225.1.4.186:1235?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="爱上-4k" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/爱上4K.png" group-title="影视剧场频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225901/10000100000000060000000000193174_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",爱上-4k
+rtp://225.1.4.162:1204?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="高网" tvg-logo="https://epg.v1.mk/logo/%E9%AB%98%E7%BD%91.png" group-title="影视剧场频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225966/10000100000000060000000000273226_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",高网
+rtp://225.1.4.180:1229?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="收视指南" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/收视指南.png" group-title="影视剧场频道" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225681/10000100000000060000000000009827_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",收视指南
+rtp://225.1.4.50:1079?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="卡酷动画" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/卡酷动画.png" group-title="教育卡通" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225680/10000100000000060000000000009826_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",卡酷动画
+rtp://225.1.4.48:1077?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/金鹰卡通.png" group-title="教育卡通" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226468/10000100000000060000000002837571_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",金鹰卡通
+rtp://225.1.4.49:1078?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/嘉佳卡通.png" group-title="教育卡通" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225669/10000100000000060000000000009825_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",嘉佳卡通
+rtp://225.1.4.92:1121?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="少儿动画" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/少儿动画.png" group-title="教育卡通" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225970/10000100000000060000000000273221_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",少儿动画
+rtp://225.1.4.189:1238?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="国学频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/国学.png" group-title="教育卡通" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226490/10000100000000060000000004627055_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",国学频道
+rtp://225.1.4.196:1311?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="好学生" tvg-logo="https://epg.v1.mk/logo/%E5%9B%BD%E5%AD%A6.png" group-title="教育卡通" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225967/10000100000000060000000000273225_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",好学生
+rtp://225.1.4.177:1226?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="中国教育1台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中国教育1.png" group-title="教育卡通" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225900/10000100000000060000000000188019_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",中国教育1台
+rtp://225.1.4.173:1712?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="中国教育2台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中国教育2.png" group-title="教育卡通" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225906/10000100000000060000000000273211_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",中国教育2台
+rtp://225.1.4.165:1206?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="中国教育4台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中国教育4.png" group-title="教育卡通" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225898/10000100000000060000000000188017_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",中国教育4台
+rtp://225.1.4.171:1710?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="国学" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/国学.png" group-title="教育卡通" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225964/10000100000000060000000000273228_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",国学
+rtp://225.1.4.178:1227?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东教育.png" group-title="教育卡通" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225905/10000100000000060000000000274123_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",山东教育
+rtp://225.1.4.164:1205?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="早教" tvg-logo="https://epg.v1.mk/logo/%E6%97%A9%E6%95%99.png" group-title="教育卡通" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225965/10000100000000060000000000273227_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",早教
+rtp://225.1.4.179:1228?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/金鹰纪实.png" group-title="人文地理" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225899/10000100000000060000000000188018_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",金鹰纪实
+rtp://225.1.4.172:1711?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="地理" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/4K地理.png" group-title="人文地理" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225961/10000100000000060000000000273231_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",地理
+rtp://225.1.4.183:1232?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="IPTV野外" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV野外.png" group-title="人文地理" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225972/10000100000000060000000000273219_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",IPTV野外
+rtp://225.1.4.187:1236?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="IPTV法治" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV法治.png" group-title="人文地理" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225973/10000100000000060000000000273218_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",IPTV法治
+rtp://225.1.4.188:1237?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="美妆" tvg-logo="https://epg.v1.mk/logo/%E7%BE%8E%E5%A6%86.png" group-title="人文地理" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225962/10000100000000060000000000273230_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",美妆
+rtp://225.1.4.182:1231?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="爱生活" tvg-logo="https://epg.v1.mk/logo/%E7%88%B1%E7%94%9F%E6%B4%BB.png" group-title="人文地理" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225968/10000100000000060000000000273224_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",爱生活
+rtp://225.1.4.176:1225?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="魅力时尚" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/魅力时尚.png" group-title="人文地理" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226424/10000100000000060000000000756291_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",魅力时尚
+rtp://225.1.4.205:1253?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="中华特产" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中华特产.png" group-title="人文地理" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226581/230420492.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",中华特产
+rtp://225.1.5.19:1330?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="爱综艺" tvg-logo="https://epg.v1.mk/logo/%E7%88%B1%E7%BB%BC%E8%89%BA.png" group-title="人文地理" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226431/10000100000000060000000000756292_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",爱综艺
+rtp://225.1.4.204:1252?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="军事" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/军事.png" group-title="人文地理" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225963/10000100000000060000000000273229_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",军事
+rtp://225.1.4.181:1230?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="音乐现场" tvg-logo="https://epg.v1.mk/logo/%E9%9F%B3%E4%B9%90%E7%8E%B0%E5%9C%BA.png" group-title="体育音乐" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225969/10000100000000060000000000273222_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",音乐现场
+rtp://225.1.4.184:1224?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="足球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/足球.png" group-title="体育音乐" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226422/10000100000000060000000000575435_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",足球
+rtp://225.1.4.200:1250?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="爱体育高清" tvg-logo="https://epg.v1.mk/logo/%E7%88%B1%E4%BD%93%E8%82%B2%E9%AB%98%E6%B8%85.png" group-title="体育音乐" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221225909/10000100000000060000000000273213_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",爱体育高清
+rtp://225.1.4.168:1220?fcc=10.254.216.130:8027
+#EXTINF:-1 tvg-name="乒羽频道" tvg-logo="https://epg.v1.mk/logo/%E4%B9%92%E7%BE%BD%E9%A2%91%E9%81%93.png" group-title="体育音乐" catchup="default" catchup-source="rtsp://10.254.216.130/PLTV/88888888/224/3221226472/10000100000000060000000003445715_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",乒羽频道
+rtp://225.1.4.210:1263?fcc=10.254.216.130:8027
